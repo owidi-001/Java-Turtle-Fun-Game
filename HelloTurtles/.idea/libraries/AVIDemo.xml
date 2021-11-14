@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="AVIDemo">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/gatechClasses/AVIDemo.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/libs/gatechClasses/AVIDemo.jar!/" />
+    </SOURCES>
+  </library>
+</component>

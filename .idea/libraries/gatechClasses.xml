@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="gatechClasses">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/HelloTurtles/libs/gatechClasses/jmf.jar!/" />
+      <root url="jar://$PROJECT_DIR$/HelloTurtles/libs/gatechClasses/javazoom.jar!/" />
+      <root url="jar://$PROJECT_DIR$/HelloTurtles/libs/gatechClasses/AVIDemo.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
